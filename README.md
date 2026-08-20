@@ -1,0 +1,2 @@
+# clgclass1
+basicprgm
